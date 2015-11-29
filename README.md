@@ -12,3 +12,9 @@ This blueprint propose a way to setup quickly a continuous delivery environment.
 
 The associated Pivotal Tracker project is https://www.pivotaltracker.com/projects/1490264
  
+## Documentation
+
+### Setup a project
+
+* [As a developer I can provision a server](doc/provision-server.md)
+
