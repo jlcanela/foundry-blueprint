@@ -18,4 +18,5 @@ The associated Pivotal Tracker project is https://www.pivotaltracker.com/project
 
 * [As a developer I can provision a server](doc/provision-server.md)
 * [As a developer I can setup a source code repository](doc/setup-source-code-repository.md)
-
+* [As a developer I can setup a Pivotal Tracker project](setup-pivotal-tracker-project.md)
+* [As a developer I can integrate Pivotal Tracker with GitHub]()
